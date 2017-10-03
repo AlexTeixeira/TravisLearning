@@ -3,11 +3,11 @@ solution: RomanNumber.sln
 mono: none
 dotnet: 2.0.0
 dist: trusty
-script: 
-- dotnet restore 
+script:
+- dotnet restore
 - dotnet test ./RomanNumbersTest/RomanNumbersTest.csproj
 - dotnet build -c Release
 - dotnet publish -c Release -o ./RomanNumbers/publish
-after_success: 
+after_success:
 - chmod +x push.sh
-- ./push.sh
+- "./push.sh"
