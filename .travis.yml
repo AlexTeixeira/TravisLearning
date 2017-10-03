@@ -9,4 +9,4 @@ script:
 - dotnet build -c Release
 - dotnet publish -c Release -o ./RomanNumbers/publish
 after_success: 
-- .travis/push.sh
+- ./push.sh
