@@ -303,3 +303,4 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+RomanNumbers/obj/Release/netcoreapp1.1/RomanNumbers.csproj.CoreCompileInputs.cache

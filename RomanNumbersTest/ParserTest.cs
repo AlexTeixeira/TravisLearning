@@ -21,7 +21,7 @@ namespace RomanNumbersTest
         [TestMethod]
         public void TestArgumentExceptionForNaN()
         {
-            Assert.ThrowsException<ArgumentException>(() => parser.ParseString("s"));
+            Assert.ThrowsException<ArgumentNullException>(() => parser.ParseString("s"));
         }
 
         [TestMethod]
