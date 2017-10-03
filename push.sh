@@ -7,13 +7,13 @@ setup_git() {
 
 commit_files() {
   git checkout -b master
-  git add . ./RomanNumbersTest/publish
+  git add ./RomanNumbersTest/publish/*.*
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
-  git remote add origin https://${GITHUB_TOKEN}@github.com/TravisLearning/resources.git > /dev/null 2>&1
-  git push origin HEAD:master
+  git remote add origin https://${GH_TOKEN}@github.com/TravisLearning/resources.git > /dev/null 2>&1
+  git push origin
 }
 
 setup_git
