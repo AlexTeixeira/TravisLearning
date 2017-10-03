@@ -5,5 +5,5 @@ dotnet: 2.0.0
 dist: trusty
 script:
  - dotnet restore 
- - dotnet build -f netcoreapp2.0
+ - dotnet build -f netcoreapp1.1
  - dotnet test ./RomanNumberTest/bin/Release/RomanNumberTest.dll
