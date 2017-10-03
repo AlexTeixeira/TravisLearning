@@ -6,4 +6,4 @@ dist: trusty
 script:
  - dotnet restore 
  - dotnet build -f netcoreapp1.1
- - dotnet test ./RomanNumbersTest/RomanNumbersTest.csproj -f netcoreapp1.1
+ - dotnet test ./RomanNumbersTest/RomanNumbersTest.csproj
