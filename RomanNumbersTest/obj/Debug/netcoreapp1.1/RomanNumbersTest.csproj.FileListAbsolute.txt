@@ -1,0 +1,15 @@
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbersTest.deps.json
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbersTest.runtimeconfig.json
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbersTest.runtimeconfig.dev.json
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbersTest.dll
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbersTest.pdb
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbers.dll
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\bin\Debug\netcoreapp1.1\RomanNumbers.pdb
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\obj\Debug\netcoreapp1.1\RomanNumbersTest.csprojResolveAssemblyReference.cache
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\obj\Debug\netcoreapp1.1\RomanNumbersTest.csproj.CoreCompileInputs.cache
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\obj\Debug\netcoreapp1.1\RomanNumbersTest.AssemblyInfo.cs
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\obj\Debug\netcoreapp1.1\RomanNumbersTest.dll
+D:\Dev\Cours\M2\Exercice\RomanNumbers\RomanNumbersTest\obj\Debug\netcoreapp1.1\RomanNumbersTest.pdb
