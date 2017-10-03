@@ -9,4 +9,5 @@ script:
 - dotnet build -c Release
 - dotnet publish -c Release -o ./RomanNumbers/publish
 after_success: 
+- chmod +x push.sh
 - ./push.sh
