@@ -8554,9 +8554,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "D:\\Dev\\Cours\\M2\\Exercice\\RomanNumbers\\RomanNumbersTest\\RomanNumbersTest.csproj",
       "projectName": "RomanNumbersTest",
@@ -8588,14 +8585,6 @@
     "frameworks": {
       "netcoreapp1.1": {
         "dependencies": {
-          "MSTest.TestFramework": {
-            "target": "Package",
-            "version": "1.1.17"
-          },
-          "MSTest.TestAdapter": {
-            "target": "Package",
-            "version": "1.1.17"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "1.1.2",
@@ -8604,6 +8593,14 @@
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "15.3.0-preview-20170425-07"
+          },
+          "MSTest.TestAdapter": {
+            "target": "Package",
+            "version": "1.1.17"
+          },
+          "MSTest.TestFramework": {
+            "target": "Package",
+            "version": "1.1.17"
           }
         }
       }
