@@ -8,10 +8,11 @@ script:
 - dotnet test ./RomanNumbersTest/RomanNumbersTest.csproj
 - dotnet build -c Release
 - dotnet publish -c Release -o ./RomanNumbers/publish
+before_deploy:
+- cd /home/travis/build/AlexTeixeira/TravisLearning/RomanNumbers/RomanNumbers/publish/
 deploy:
   provider: releases
   api_key: $GH_TOKEN
-  file: "/home/travis/build/AlexTeixeira/TravisLearning/RomanNumbers/RomanNumbers/publish/"
   skip_cleanup: true
   on:
     tags: true
